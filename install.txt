@@ -1,0 +1,7 @@
+#pip install django
+#pip install djangorestframework
+#python -m pip install django-cors-headers
+#pip install openai
+#pip install python-dotenv
+#pip install openpyxl
+
