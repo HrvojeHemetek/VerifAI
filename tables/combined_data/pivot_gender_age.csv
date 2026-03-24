@@ -1,0 +1,673 @@
+country,gender,age,unemployment_rate_percent
+Afghanistan,F,15_24,21.1
+Afghanistan,F,25_54,14.8
+Afghanistan,F,55_64,7.01
+Afghanistan,F,65plus,
+Afghanistan,M,15_24,14.5
+Afghanistan,M,25_54,8.78
+Afghanistan,M,55_64,9.54
+Afghanistan,M,65plus,9.28
+Argentina,F,15_24,35.0
+Argentina,F,25_54,9.95
+Argentina,F,55_64,8.09
+Argentina,F,65plus,2.3
+Argentina,M,15_24,26.8
+Argentina,M,25_54,8.52
+Argentina,M,55_64,8.43
+Argentina,M,65plus,5.13
+Australia,F,15_24,13.2
+Australia,F,25_54,5.26
+Australia,F,55_64,4.78
+Australia,F,65plus,2.31
+Australia,M,15_24,15.3
+Australia,M,25_54,5.1
+Australia,M,55_64,5.42
+Australia,M,65plus,2.67
+Austria,F,15_24,9.51
+Austria,F,25_54,4.97
+Austria,F,55_64,3.61
+Austria,F,65plus,
+Austria,M,15_24,11.3
+Austria,M,25_54,4.95
+Austria,M,55_64,4.36
+Austria,M,65plus,
+Belarus,F,15_24,10.2
+Belarus,F,25_54,2.74
+Belarus,F,55_64,2.84
+Belarus,F,65plus,4.71
+Belarus,M,15_24,14.3
+Belarus,M,25_54,3.98
+Belarus,M,55_64,4.06
+Belarus,M,65plus,4.71
+Belgium,F,15_24,15.1
+Belgium,F,25_54,4.85
+Belgium,F,55_64,3.62
+Belgium,F,65plus,
+Belgium,M,15_24,15.5
+Belgium,M,25_54,5.11
+Belgium,M,55_64,4.61
+Belgium,M,65plus,
+Bolivia,F,15_24,16.6
+Bolivia,F,25_54,10.1
+Bolivia,F,55_64,4.04
+Bolivia,F,65plus,2.02
+Bolivia,M,15_24,15.7
+Bolivia,M,25_54,4.97
+Bolivia,M,55_64,4.09
+Bolivia,M,65plus,2.11
+Bosnia and Herzegovina,F,15_24,42.8
+Bosnia and Herzegovina,F,25_54,17.8
+Bosnia and Herzegovina,F,55_64,7.11
+Bosnia and Herzegovina,F,65plus,1.13
+Bosnia and Herzegovina,M,15_24,32.5
+Bosnia and Herzegovina,M,25_54,12.6
+Bosnia and Herzegovina,M,55_64,11.4
+Bosnia and Herzegovina,M,65plus,0.97
+Botswana,F,15_24,47.9
+Botswana,F,25_54,23.3
+Botswana,F,55_64,15.8
+Botswana,F,65plus,6.06
+Botswana,M,15_24,44.9
+Botswana,M,25_54,20.6
+Botswana,M,55_64,16.5
+Botswana,M,65plus,13.9
+Brazil,F,15_24,36.3
+Brazil,F,25_54,13.4
+Brazil,F,55_64,7.17
+Brazil,F,65plus,3.79
+Brazil,M,15_24,27.5
+Brazil,M,25_54,9.49
+Brazil,M,55_64,7.49
+Brazil,M,65plus,3.18
+Bulgaria,F,15_24,13.7
+Bulgaria,F,25_54,4.6
+Bulgaria,F,55_64,4.12
+Bulgaria,F,65plus,
+Bulgaria,M,15_24,14.6
+Bulgaria,M,25_54,5.25
+Bulgaria,M,55_64,4.41
+Bulgaria,M,65plus,
+Canada,F,15_24,19.4
+Canada,F,25_54,7.78
+Canada,F,55_64,7.62
+Canada,F,65plus,8.12
+Canada,M,15_24,20.9
+Canada,M,25_54,7.72
+Canada,M,55_64,8.28
+Canada,M,65plus,6.96
+Chile,F,15_24,26.6
+Chile,F,25_54,10.7
+Chile,F,55_64,7.44
+Chile,F,65plus,5.8
+Chile,M,15_24,23.7
+Chile,M,25_54,10.9
+Chile,M,55_64,7.42
+Chile,M,65plus,3.87
+Colombia,F,15_24,33.0
+Colombia,F,25_54,17.9
+Colombia,F,55_64,9.59
+Colombia,F,65plus,4.81
+Colombia,M,15_24,20.7
+Colombia,M,25_54,11.0
+Colombia,M,55_64,9.68
+Colombia,M,65plus,7.38
+Costa Rica,F,15_24,50.9
+Costa Rica,F,25_54,19.5
+Costa Rica,F,55_64,10.7
+Costa Rica,F,65plus,7.7
+Costa Rica,M,15_24,34.0
+Costa Rica,M,25_54,11.6
+Costa Rica,M,55_64,7.94
+Costa Rica,M,65plus,6.86
+Croatia,F,15_24,25.0
+Croatia,F,25_54,6.62
+Croatia,F,55_64,5.41
+Croatia,F,65plus,
+Croatia,M,15_24,18.7
+Croatia,M,25_54,6.9
+Croatia,M,55_64,4.13
+Croatia,M,65plus,
+Cyprus,F,15_24,12.3
+Cyprus,F,25_54,7.57
+Cyprus,F,55_64,5.66
+Cyprus,F,65plus,
+Cyprus,M,15_24,24.4
+Cyprus,M,25_54,6.63
+Cyprus,M,55_64,5.89
+Cyprus,M,65plus,
+Czech Republic,F,15_24,9.16
+Czech Republic,F,25_54,2.84
+Czech Republic,F,55_64,2.37
+Czech Republic,F,65plus,
+Czech Republic,M,15_24,7.22
+Czech Republic,M,25_54,2.07
+Czech Republic,M,55_64,1.67
+Czech Republic,M,65plus,
+Denmark,F,15_24,10.6
+Denmark,F,25_54,5.54
+Denmark,F,55_64,4.26
+Denmark,F,65plus,
+Denmark,M,15_24,12.6
+Denmark,M,25_54,4.37
+Denmark,M,55_64,4.15
+Denmark,M,65plus,
+Dominican Republic,F,15_24,20.7
+Dominican Republic,F,25_54,8.3
+Dominican Republic,F,55_64,1.19
+Dominican Republic,F,65plus,1.41
+Dominican Republic,M,15_24,11.6
+Dominican Republic,M,25_54,3.2
+Dominican Republic,M,55_64,1.31
+Dominican Republic,M,65plus,0.08
+Ecuador,F,15_24,15.4
+Ecuador,F,25_54,7.22
+Ecuador,F,55_64,2.97
+Ecuador,F,65plus,
+Ecuador,M,15_24,8.72
+Ecuador,M,25_54,5.28
+Ecuador,M,55_64,3.01
+Ecuador,M,65plus,1.19
+Estonia,F,15_24,18.4
+Estonia,F,25_54,6.02
+Estonia,F,55_64,5.69
+Estonia,F,65plus,
+Estonia,M,15_24,17.4
+Estonia,M,25_54,5.78
+Estonia,M,55_64,7.85
+Estonia,M,65plus,
+Finland,F,15_24,19.4
+Finland,F,25_54,5.8
+Finland,F,55_64,6.87
+Finland,F,65plus,
+Finland,M,15_24,23.2
+Finland,M,25_54,5.87
+Finland,M,55_64,8.06
+Finland,M,65plus,
+France,F,15_24,19.9
+France,F,25_54,7.09
+France,F,55_64,5.76
+France,F,65plus,3.1
+France,M,15_24,20.3
+France,M,25_54,7.03
+France,M,55_64,5.78
+France,M,65plus,2.27
+Georgia,F,15_24,38.3
+Georgia,F,25_54,16.8
+Georgia,F,55_64,10.9
+Georgia,F,65plus,5.21
+Georgia,M,15_24,40.1
+Georgia,M,25_54,20.4
+Georgia,M,55_64,13.7
+Georgia,M,65plus,9.07
+Germany,F,15_24,6.39
+Germany,F,25_54,3.18
+Germany,F,55_64,2.81
+Germany,F,65plus,
+Germany,M,15_24,7.94
+Germany,M,25_54,4.02
+Germany,M,55_64,3.48
+Germany,M,65plus,
+Greece,F,15_24,39.3
+Greece,F,25_54,20.0
+Greece,F,55_64,13.0
+Greece,F,65plus,9.19
+Greece,M,15_24,31.4
+Greece,M,25_54,13.1
+Greece,M,55_64,11.6
+Greece,M,65plus,8.36
+Honduras,F,15_24,27.7
+Honduras,F,25_54,11.9
+Honduras,F,55_64,4.0
+Honduras,F,65plus,3.47
+Honduras,M,15_24,11.1
+Honduras,M,25_54,7.95
+Honduras,M,55_64,8.36
+Honduras,M,65plus,8.38
+"Hong Kong, China",F,15_24,13.6
+"Hong Kong, China",F,25_54,4.14
+"Hong Kong, China",F,55_64,4.38
+"Hong Kong, China",F,65plus,3.41
+"Hong Kong, China",M,15_24,17.3
+"Hong Kong, China",M,25_54,6.17
+"Hong Kong, China",M,55_64,7.12
+"Hong Kong, China",M,65plus,3.71
+Hungary,F,15_24,14.0
+Hungary,F,25_54,4.12
+Hungary,F,55_64,2.75
+Hungary,F,65plus,
+Hungary,M,15_24,11.9
+Hungary,M,25_54,3.58
+Hungary,M,55_64,3.17
+Hungary,M,65plus,
+Iceland,F,15_24,9.0
+Iceland,F,25_54,5.03
+Iceland,F,55_64,3.82
+Iceland,F,65plus,
+Iceland,M,15_24,11.1
+Iceland,M,25_54,5.47
+Iceland,M,55_64,3.38
+Iceland,M,65plus,
+India,F,15_24,21.0
+India,F,25_54,2.61
+India,F,55_64,0.09
+India,F,65plus,
+India,M,15_24,19.5
+India,M,25_54,2.63
+India,M,55_64,0.39
+India,M,65plus,0.23
+Indonesia,F,15_24,14.3
+Indonesia,F,25_54,2.21
+Indonesia,F,55_64,0.48
+Indonesia,F,65plus,
+Indonesia,M,15_24,15.1
+Indonesia,M,25_54,3.2
+Indonesia,M,55_64,1.32
+Indonesia,M,65plus,0.38
+Iran,F,15_24,36.0
+Iran,F,25_54,14.6
+Iran,F,55_64,0.99
+Iran,F,65plus,
+Iran,M,15_24,21.2
+Iran,M,25_54,7.7
+Iran,M,55_64,3.53
+Iran,M,65plus,1.09
+Ireland,F,15_24,15.3
+Ireland,F,25_54,4.56
+Ireland,F,55_64,3.67
+Ireland,F,65plus,
+Ireland,M,15_24,15.3
+Ireland,M,25_54,4.66
+Ireland,M,55_64,4.34
+Ireland,M,65plus,
+Israel,F,15_24,8.21
+Israel,F,25_54,3.72
+Israel,F,55_64,2.45
+Israel,F,65plus,1.76
+Israel,M,15_24,7.64
+Israel,M,25_54,4.26
+Israel,M,55_64,3.63
+Israel,M,65plus,2.56
+Italy,F,15_24,31.8
+Italy,F,25_54,10.3
+Italy,F,55_64,4.91
+Italy,F,65plus,2.04
+Italy,M,15_24,27.9
+Italy,M,25_54,7.96
+Italy,M,55_64,5.07
+Italy,M,65plus,1.78
+Japan,F,15_24,4.2
+Japan,F,25_54,2.69
+Japan,F,55_64,2.1
+Japan,F,65plus,1.1
+Japan,M,15_24,5.0
+Japan,M,25_54,2.97
+Japan,M,55_64,2.9
+Japan,M,65plus,2.4
+Kazakhstan,F,15_24,4.15
+Kazakhstan,F,25_54,5.52
+Kazakhstan,F,55_64,5.97
+Kazakhstan,F,65plus,0.86
+Kazakhstan,M,15_24,3.42
+Kazakhstan,M,25_54,4.52
+Kazakhstan,M,55_64,5.17
+Kazakhstan,M,65plus,0.59
+Kosovo,F,15_24,57.6
+Kosovo,F,25_54,29.5
+Kosovo,F,55_64,6.05
+Kosovo,F,65plus,23.3
+Kosovo,M,15_24,45.9
+Kosovo,M,25_54,21.9
+Kosovo,M,55_64,11.1
+Kosovo,M,65plus,3.85
+Latvia,F,15_24,15.5
+Latvia,F,25_54,6.92
+Latvia,F,55_64,6.85
+Latvia,F,65plus,
+Latvia,M,15_24,14.4
+Latvia,M,25_54,8.91
+Latvia,M,55_64,9.57
+Latvia,M,65plus,
+Lithuania,F,15_24,17.3
+Lithuania,F,25_54,6.7
+Lithuania,F,55_64,9.13
+Lithuania,F,65plus,
+Lithuania,M,15_24,21.4
+Lithuania,M,25_54,8.06
+Lithuania,M,55_64,10.7
+Lithuania,M,65plus,
+Luxembourg,F,15_24,21.3
+Luxembourg,F,25_54,6.21
+Luxembourg,F,55_64,3.25
+Luxembourg,F,65plus,
+Luxembourg,M,15_24,24.8
+Luxembourg,M,25_54,5.24
+Luxembourg,M,55_64,4.85
+Luxembourg,M,65plus,
+"Macao, China",F,15_24,6.36
+"Macao, China",F,25_54,2.16
+"Macao, China",F,55_64,1.35
+"Macao, China",F,65plus,0.0
+"Macao, China",M,15_24,9.91
+"Macao, China",M,25_54,2.07
+"Macao, China",M,55_64,4.42
+"Macao, China",M,65plus,2.41
+Malawi,F,15_24,2.34
+Malawi,F,25_54,1.57
+Malawi,F,55_64,
+Malawi,F,65plus,
+Malawi,M,15_24,1.5
+Malawi,M,25_54,0.88
+Malawi,M,55_64,
+Malawi,M,65plus,
+Malaysia,F,15_24,13.0
+Malaysia,F,25_54,3.1
+Malaysia,F,55_64,2.28
+Malaysia,F,65plus,
+Malaysia,M,15_24,11.4
+Malaysia,M,25_54,3.05
+Malaysia,M,55_64,3.02
+Malaysia,M,65plus,
+Malta,F,15_24,7.98
+Malta,F,25_54,3.91
+Malta,F,55_64,4.08
+Malta,F,65plus,
+Malta,M,15_24,13.1
+Malta,M,25_54,3.35
+Malta,M,55_64,3.15
+Malta,M,65plus,
+Mexico,F,15_24,8.74
+Mexico,F,25_54,3.7
+Mexico,F,55_64,1.5
+Mexico,F,65plus,1.09
+Mexico,M,15_24,7.78
+Mexico,M,25_54,4.41
+Mexico,M,55_64,3.03
+Mexico,M,65plus,1.92
+Moldova,F,15_24,12.3
+Moldova,F,25_54,3.12
+Moldova,F,55_64,1.63
+Moldova,F,65plus,
+Moldova,M,15_24,9.89
+Moldova,M,25_54,4.11
+Moldova,M,55_64,3.83
+Moldova,M,65plus,
+Mongolia,F,15_24,19.5
+Mongolia,F,25_54,6.03
+Mongolia,F,55_64,1.74
+Mongolia,F,65plus,
+Mongolia,M,15_24,16.9
+Mongolia,M,25_54,6.42
+Mongolia,M,55_64,3.78
+Mongolia,M,65plus,
+Montenegro,F,15_24,39.7
+Montenegro,F,25_54,18.0
+Montenegro,F,55_64,9.52
+Montenegro,F,65plus,
+Montenegro,M,15_24,33.6
+Montenegro,M,25_54,17.1
+Montenegro,M,55_64,9.82
+Montenegro,M,65plus,
+Montserrat,F,15_24,23.9
+Montserrat,F,25_54,5.27
+Montserrat,F,55_64,
+Montserrat,F,65plus,
+Montserrat,M,15_24,18.9
+Montserrat,M,25_54,9.16
+Montserrat,M,55_64,8.26
+Montserrat,M,65plus,
+Netherlands,F,15_24,9.01
+Netherlands,F,25_54,3.02
+Netherlands,F,55_64,2.85
+Netherlands,F,65plus,1.55
+Netherlands,M,15_24,9.2
+Netherlands,M,25_54,2.78
+Netherlands,M,55_64,2.63
+Netherlands,M,65plus,2.79
+New Zealand,F,15_24,12.6
+New Zealand,F,25_54,4.09
+New Zealand,F,55_64,2.8
+New Zealand,F,65plus,1.82
+New Zealand,M,15_24,12.2
+New Zealand,M,25_54,3.04
+New Zealand,M,55_64,2.91
+New Zealand,M,65plus,1.94
+North Macedonia,F,15_24,40.0
+North Macedonia,F,25_54,15.9
+North Macedonia,F,55_64,10.8
+North Macedonia,F,65plus,
+North Macedonia,M,15_24,35.2
+North Macedonia,M,25_54,16.5
+North Macedonia,M,55_64,13.7
+North Macedonia,M,65plus,
+Norway,F,15_24,10.5
+Norway,F,25_54,3.6
+Norway,F,55_64,
+Norway,F,65plus,
+Norway,M,15_24,12.1
+Norway,M,25_54,4.08
+Norway,M,55_64,2.34
+Norway,M,65plus,
+Oman,F,15_24,31.6
+Oman,F,25_54,8.73
+Oman,F,55_64,0.63
+Oman,F,65plus,
+Oman,M,15_24,12.1
+Oman,M,25_54,0.65
+Oman,M,55_64,0.16
+Oman,M,65plus,
+Palestine,F,15_24,70.0
+Palestine,F,25_54,35.7
+Palestine,F,55_64,2.33
+Palestine,F,65plus,
+Palestine,M,15_24,36.6
+Palestine,M,25_54,19.8
+Palestine,M,55_64,9.52
+Palestine,M,65plus,4.85
+Panama,F,15_24,51.9
+Panama,F,25_54,24.6
+Panama,F,55_64,
+Panama,F,65plus,0.72
+Panama,M,15_24,30.8
+Panama,M,25_54,14.4
+Panama,M,55_64,
+Panama,M,65plus,2.98
+Paraguay,F,15_24,23.3
+Paraguay,F,25_54,7.58
+Paraguay,F,55_64,2.47
+Paraguay,F,65plus,
+Paraguay,M,15_24,13.1
+Paraguay,M,25_54,4.2
+Paraguay,M,55_64,2.83
+Paraguay,M,65plus,2.09
+Peru,F,15_24,12.1
+Peru,F,25_54,6.58
+Peru,F,55_64,3.87
+Peru,F,65plus,1.78
+Peru,M,15_24,13.0
+Peru,M,25_54,7.22
+Peru,M,55_64,5.32
+Peru,M,65plus,3.64
+Philippines,F,15_24,8.51
+Philippines,F,25_54,2.08
+Philippines,F,55_64,0.35
+Philippines,F,65plus,0.13
+Philippines,M,15_24,6.13
+Philippines,M,25_54,1.92
+Philippines,M,55_64,0.88
+Philippines,M,65plus,0.52
+Poland,F,15_24,11.6
+Poland,F,25_54,3.01
+Poland,F,55_64,1.64
+Poland,F,65plus,
+Poland,M,15_24,10.3
+Poland,M,25_54,2.6
+Poland,M,55_64,2.47
+Poland,M,65plus,
+Portugal,F,15_24,24.4
+Portugal,F,25_54,6.39
+Portugal,F,55_64,5.06
+Portugal,F,65plus,
+Portugal,M,15_24,21.0
+Portugal,M,25_54,5.56
+Portugal,M,55_64,6.64
+Portugal,M,65plus,
+Qatar,F,15_24,1.7
+Qatar,F,25_54,0.37
+Qatar,F,55_64,
+Qatar,F,65plus,
+Qatar,M,15_24,0.2
+Qatar,M,25_54,0.06
+Qatar,M,55_64,
+Qatar,M,65plus,
+Romania,F,15_24,16.5
+Romania,F,25_54,4.16
+Romania,F,55_64,3.37
+Romania,F,65plus,0
+Romania,M,15_24,17.9
+Romania,M,25_54,4.59
+Romania,M,55_64,3.38
+Romania,M,65plus,0
+Russia,F,15_24,18.2
+Russia,F,25_54,5.25
+Russia,F,55_64,2.78
+Russia,F,65plus,2.44
+Russia,M,15_24,16.0
+Russia,M,25_54,5.09
+Russia,M,55_64,4.24
+Russia,M,65plus,2.53
+Saudi Arabia,F,15_24,43.8
+Saudi Arabia,F,25_54,18.3
+Saudi Arabia,F,55_64,3.75
+Saudi Arabia,F,65plus,4.03
+Saudi Arabia,M,15_24,21.5
+Saudi Arabia,M,25_54,2.73
+Saudi Arabia,M,55_64,1.2
+Saudi Arabia,M,65plus,0.18
+Serbia,F,15_24,29.5
+Serbia,F,25_54,9.69
+Serbia,F,55_64,4.47
+Serbia,F,65plus,0.26
+Serbia,M,15_24,25.0
+Serbia,M,25_54,8.39
+Serbia,M,55_64,5.84
+Serbia,M,65plus,0.53
+Seychelles,F,15_24,15.6
+Seychelles,F,25_54,1.84
+Seychelles,F,55_64,
+Seychelles,F,65plus,
+Seychelles,M,15_24,17.5
+Seychelles,M,25_54,3.54
+Seychelles,M,55_64,1.42
+Seychelles,M,65plus,
+Slovak Republic,F,15_24,21.2
+Slovak Republic,F,25_54,6.72
+Slovak Republic,F,55_64,5.31
+Slovak Republic,F,65plus,
+Slovak Republic,M,15_24,18.3
+Slovak Republic,M,25_54,5.84
+Slovak Republic,M,55_64,4.39
+Slovak Republic,M,65plus,
+Slovenia,F,15_24,16.1
+Slovenia,F,25_54,5.26
+Slovenia,F,55_64,4.05
+Slovenia,F,65plus,
+Slovenia,M,15_24,12.7
+Slovenia,M,25_54,3.99
+Slovenia,M,55_64,3.49
+Slovenia,M,65plus,
+South Africa,F,15_24,64.1
+South Africa,F,25_54,29.4
+South Africa,F,55_64,8.79
+South Africa,F,65plus,5.13
+South Africa,M,15_24,55.4
+South Africa,M,25_54,26.1
+South Africa,M,55_64,13.0
+South Africa,M,65plus,5.37
+South Korea,F,15_24,9.74
+South Korea,F,25_54,3.86
+South Korea,F,55_64,2.69
+South Korea,F,65plus,3.78
+South Korea,M,15_24,11.0
+South Korea,M,25_54,3.7
+South Korea,M,55_64,3.52
+South Korea,M,65plus,3.49
+Spain,F,15_24,39.7
+Spain,F,25_54,16.6
+Spain,F,55_64,13.8
+Spain,F,65plus,6.71
+Spain,M,15_24,37.1
+Spain,M,25_54,12.6
+Spain,M,55_64,11.5
+Spain,M,65plus,4.29
+Sweden,F,15_24,22.8
+Sweden,F,25_54,7.07
+Sweden,F,55_64,5.08
+Sweden,F,65plus,0
+Sweden,M,15_24,25.0
+Sweden,M,25_54,6.49
+Sweden,M,55_64,6.52
+Sweden,M,65plus,0
+Switzerland,F,15_24,8.01
+Switzerland,F,25_54,5.08
+Switzerland,F,55_64,3.24
+Switzerland,F,65plus,
+Switzerland,M,15_24,9.17
+Switzerland,M,25_54,4.17
+Switzerland,M,55_64,4.51
+Switzerland,M,65plus,
+Taiwan,F,15_24,12.1
+Taiwan,F,25_54,3.26
+Taiwan,F,55_64,1.77
+Taiwan,F,65plus,0.49
+Taiwan,M,15_24,11.3
+Taiwan,M,25_54,3.61
+Taiwan,M,55_64,2.49
+Taiwan,M,65plus,0.36
+Thailand,F,15_24,5.93
+Thailand,F,25_54,0.78
+Thailand,F,55_64,0.14
+Thailand,F,65plus,
+Thailand,M,15_24,4.64
+Thailand,M,25_54,0.86
+Thailand,M,55_64,0.22
+Thailand,M,65plus,0.07
+Turkey,F,15_24,29.9
+Turkey,F,25_54,13.0
+Turkey,F,55_64,3.78
+Turkey,F,65plus,1.22
+Turkey,M,15_24,22.5
+Turkey,M,25_54,11.2
+Turkey,M,55_64,8.4
+Turkey,M,65plus,3.23
+USA,F,15_24,14.8
+USA,F,25_54,7.33
+USA,F,55_64,7.15
+USA,F,65plus,8.29
+USA,M,15_24,15.0
+USA,M,25_54,6.92
+USA,M,55_64,6.36
+USA,M,65plus,6.85
+Ukraine,F,15_24,18.5
+Ukraine,F,25_54,9.01
+Ukraine,F,55_64,8.61
+Ukraine,F,65plus,
+Ukraine,M,15_24,19.8
+Ukraine,M,25_54,9.46
+Ukraine,M,55_64,9.39
+Ukraine,M,65plus,0.11
+Uruguay,F,15_24,38.8
+Uruguay,F,25_54,9.4
+Uruguay,F,55_64,5.77
+Uruguay,F,65plus,3.58
+Uruguay,M,15_24,29.4
+Uruguay,M,25_54,5.66
+Uruguay,M,55_64,3.75
+Uruguay,M,65plus,3.45
+Vietnam,F,15_24,8.89
+Vietnam,F,25_54,2.32
+Vietnam,F,55_64,1.02
+Vietnam,F,65plus,0.55
+Vietnam,M,15_24,6.6
+Vietnam,M,25_54,1.55
+Vietnam,M,55_64,0.93
+Vietnam,M,65plus,0.66
