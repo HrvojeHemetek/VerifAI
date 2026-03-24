@@ -1,0 +1,39 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: Arial, sans-serif;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-rows: 120px 1fr;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: 
+        "header header"
+        "left-column right-column";
+    height: 100%;
+}
+
+.header {
+    grid-area: header;
+    background-color: #000000;
+    padding: 40px;
+    text-align: center;
+    font-size: 36px;
+    color: white;
+    border-bottom: 2px solid #ddd;
+}
+
+.left-column {
+    grid-area: left-column;
+    text-align: center;
+    background-color: #ffffff;
+    border-right: 2px solid #000000;
+}
+
+.right-column {
+    grid-area: right-column;
+    text-align: center;
+    background-color: #ffffff;
+}
